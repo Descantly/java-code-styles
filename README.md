@@ -1,7 +1,9 @@
 Java Code Styles
 ================
 
-IntelliJ IDEA code style settings for Square's Java and Android projects.
+IntelliJ IDEA code style settings for Descantly's Java and Android projects.
+
+Forked from Square's Java and Android Java code styles.
 
 
 Installation
